@@ -1,0 +1,3 @@
+Name: Manuel
+Age: 28
+Favorite Color: Black
